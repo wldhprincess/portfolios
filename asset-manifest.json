@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolios/static/css/main.0bd3abfe.css",
+    "main.js": "/portfolios/static/js/main.b1206c7c.js",
+    "static/media/background.png": "/portfolios/static/media/background.9ea5ce0cf1de6f821b30.png",
+    "static/media/background_home.png": "/portfolios/static/media/background_home.faae5ecfa5168859dc83.png",
+    "static/media/background_home_main.png": "/portfolios/static/media/background_home_main.1131b51761442a7ec318.png",
+    "static/media/guess.png": "/portfolios/static/media/guess.b0792b5c980828ff32f8.png",
+    "static/media/cloud3.png": "/portfolios/static/media/cloud3.d7d68ae377d7b625ac61.png",
+    "static/media/mango.PNG": "/portfolios/static/media/mango.834fa6b3ec3a67cabebf.PNG",
+    "static/media/cloud2.png": "/portfolios/static/media/cloud2.29817d52422ecb8fbe6b.png",
+    "static/media/junBoog24.PNG": "/portfolios/static/media/junBoog24.961fa0af0e3a2bbb592a.PNG",
+    "static/media/cloud1.png": "/portfolios/static/media/cloud1.c8328d3c45fab19f082f.png",
+    "static/media/shootingGame.PNG": "/portfolios/static/media/shootingGame.3cc74c94e5eaf8dca69c.PNG",
+    "static/media/Doodle-jump.PNG": "/portfolios/static/media/Doodle-jump.adeb091117e02f3fc552.PNG",
+    "static/media/Whack-a-mole_game.PNG": "/portfolios/static/media/Whack-a-mole_game.cd956b408c79b84108aa.PNG",
+    "static/media/Calendar.PNG": "/portfolios/static/media/Calendar.cc2f003466953b145ef4.PNG",
+    "static/media/movies.PNG": "/portfolios/static/media/movies.b1234a75d25d405482c4.PNG",
+    "index.html": "/portfolios/index.html",
+    "main.0bd3abfe.css.map": "/portfolios/static/css/main.0bd3abfe.css.map",
+    "main.b1206c7c.js.map": "/portfolios/static/js/main.b1206c7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bd3abfe.css",
+    "static/js/main.b1206c7c.js"
+  ]
+}
