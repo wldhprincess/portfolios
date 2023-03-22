@@ -16,6 +16,14 @@ const Header = () => {
                             <li><Link to='/Contact'>Contact</Link></li>
                         </ul>
                     </nav>
+                    <nav className="m_menu">
+                        <ul>
+                            <li><Link className='a_tag' to='/Home' title='Home'></Link></li>
+                            <li><Link className='a_tag' to='/About' title='About Me'></Link></li>
+                            <li><Link className='a_tag' to='/Project' title='My project'></Link></li>
+                            <li><Link className='a_tag' to='/Contact' title='Contact'></Link></li>
+                        </ul>
+                    </nav>
                 </header>
                 <div className="bar">
                     <div className="bar1"></div>
