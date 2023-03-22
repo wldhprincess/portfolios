@@ -1,0 +1,152 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+// 'Amatic SC', cursive
+@font-face {
+    font-family: 'KyoboHandwriting2021sjy';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2212@1.0/KyoboHandwriting2021sjy.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+$pink: #FF6678;
+
+.ko{ font-family: 'KyoboHandwriting2021sjy';}
+
+#project{
+    width: 100%;
+    height: 100vh;
+    color: $pink;
+    font-family: 'Amatic SC', cursive;
+    h1{
+        font-size: 4.5rem;
+        display: inline-block;
+        background: linear-gradient(135deg, rgba(225,207,239,1) 0%, rgba(225,207,239,1) 36%, rgba(255,173,188,1) 58%, rgba(255,173,188,1) 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin: 0 50%;
+        transform: translate(-50%, 0);
+        width: 20%;
+        text-align: center;
+        padding-top: 60px;
+    }
+    #main{
+        width: 100%;
+        height: 700px;
+        margin: 30px auto;
+        position: relative;
+        display: flex;
+        padding: 40px;
+        background: #ffffff38;
+        box-shadow: 0 4px 20px #00000050;
+
+        .swiper-horizontal{
+            .swiper-wrapper{
+                .swiper-slide{
+                    .left{
+                        position: absolute;
+                        width: 44%;
+                        height: 100%;
+                        left: 6%;
+                        .project{
+                            font-size: 3rem;
+                            letter-spacing: 6px;
+                            margin-bottom: 30px;
+                        }
+                        .box{
+                            width: 100%;
+                            height: 70%;
+                            background: #fff;
+                            box-shadow: 0 5px 20px #00000069;
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            flex-direction: column;
+                            position: relative;
+                            .img_box{
+                                width: 95%;
+                                height: 80%;
+                                background: url(../../../public/img/junBoog24.PNG) no-repeat center;
+                                background-size: contain;
+                            }
+                            .img_box2{
+                                background: url(../../../public/img/guess.png) no-repeat center;
+                                background-size: contain;
+                            }
+                            .img_box3{
+                                background: url(../../../public/img/mango.PNG) no-repeat center;
+                                background-size: contain;
+                            }
+                            .img_box4{
+                                background: url(../../../public/img/shootingGame.PNG) no-repeat center;
+                                background-size: contain;
+                            }
+                            .img_box5{
+                                background: url(../../../public/img/Doodle-jump.PNG) no-repeat center;
+                                background-size: contain;
+                            }
+                            .img_box6{
+                                background: url(../../../public/img/Whack-a-mole_game.PNG) no-repeat center;
+                                background-size: contain;
+                            }
+                            .img_box7{
+                                background: url(../../../public/img/Calendar.PNG) no-repeat center;
+                                background-size: contain;
+                            }
+                            .img_box8{
+                                background: url(../../../public/img/movies.PNG) no-repeat center;
+                                background-size: contain;
+                            }
+                            .addr{
+                                font-family: 'KyoboHandwriting2021sjy';
+                                display: flex;
+                                font-size: 23px;
+                                margin-left: 20px;
+                                align-items: center;
+                                color: slategray;
+                                height: 10%;
+                                position: absolute;
+                                bottom: 0;
+                                a{
+                                    
+                                    color: slategray;
+                                }
+                            }
+                        }
+                    }
+                    .right{
+                        position: absolute;
+                        width: 44%;
+                        height: 100%;
+                        right: 0;
+                        padding-top: 102px;
+                        .title{
+                            text-align: center;
+                            width: 80%;
+                            height: 60px;
+                            background: #ff97a183;
+                            border-radius: 21px;
+                            box-shadow: 0 4px 4px #00000025;
+                            h3{
+                                color: #fff;
+                                font-size: 30px;
+                                line-height: 60px;
+                            }
+                        }
+                        .content{
+                            font-family: 'KyoboHandwriting2021sjy';
+                            margin-top: 60px;
+                            margin-left: 20px;
+                            .flex{
+                                display: flex;
+                                width: 80%;
+                                font-size: 26px;
+                                .data{
+                                    margin-right: 25px;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

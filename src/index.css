@@ -1,0 +1,13 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+
+
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background: url(../public/img/background.png) no-repeat fixed;
+    font-family: 'Amatic SC', cursive;
+    overflow-x: hidden;
+    background-size: 102% 100%;
+}
