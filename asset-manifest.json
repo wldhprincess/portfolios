@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolios/static/css/main.0bd3abfe.css",
-    "main.js": "/portfolios/static/js/main.abcd4476.js",
+    "main.css": "/portfolios/static/css/main.9c812396.css",
+    "main.js": "/portfolios/static/js/main.322f1be0.js",
     "static/media/background.png": "/portfolios/static/media/background.9ea5ce0cf1de6f821b30.png",
     "static/media/background_home.png": "/portfolios/static/media/background_home.faae5ecfa5168859dc83.png",
     "static/media/background_home_main.png": "/portfolios/static/media/background_home_main.1131b51761442a7ec318.png",
@@ -15,13 +15,14 @@
     "static/media/Doodle-jump.PNG": "/portfolios/static/media/Doodle-jump.adeb091117e02f3fc552.PNG",
     "static/media/Whack-a-mole_game.PNG": "/portfolios/static/media/Whack-a-mole_game.cd956b408c79b84108aa.PNG",
     "static/media/Calendar.PNG": "/portfolios/static/media/Calendar.cc2f003466953b145ef4.PNG",
+    "static/media/kurly.PNG": "/portfolios/static/media/kurly.83bbf33e172aad5cae74.PNG",
     "static/media/movies.PNG": "/portfolios/static/media/movies.b1234a75d25d405482c4.PNG",
     "index.html": "/portfolios/index.html",
-    "main.0bd3abfe.css.map": "/portfolios/static/css/main.0bd3abfe.css.map",
-    "main.abcd4476.js.map": "/portfolios/static/js/main.abcd4476.js.map"
+    "main.9c812396.css.map": "/portfolios/static/css/main.9c812396.css.map",
+    "main.322f1be0.js.map": "/portfolios/static/js/main.322f1be0.js.map"
   },
   "entrypoints": [
-    "static/css/main.0bd3abfe.css",
-    "static/js/main.abcd4476.js"
+    "static/css/main.9c812396.css",
+    "static/js/main.322f1be0.js"
   ]
 }
