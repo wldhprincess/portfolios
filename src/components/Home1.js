@@ -27,7 +27,7 @@ const Home1 = () => {
                     <div className="main_right">
                         <div className="m_photo">
                             <div className="photo_box">
-                                <img src="./img/main1.jpg" alt="" />
+                            <img src={process.env.PUBLIC_URL + '/img/main1.jpg'} />
                             </div>
                         </div>
                         <div className="portfolio">

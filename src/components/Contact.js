@@ -28,18 +28,18 @@ const Contact = () => {
             <h1>contact</h1>
             <main id='main'>
             <section className='left'>
-                    <img src="./img/main3.jpg" alt="main2" />
-                    <div className="title">
-                        <div className='flex'>
-                            <div className="name">kim jioh</div>
-                            <div className="phone">phone: 010-7630-2353</div>
-                        </div>
-                        <div className='flex'>
-                            <div className="birth">1999.09.08</div>
-                            <div className="addr">Maesong-myeon, Hwaseong-si </div>
-                        </div>
+                <img src={process.env.PUBLIC_URL + '/img/main3.jpg'} />
+                <div className="title">
+                    <div className='flex'>
+                        <div className="name">kim jioh</div>
+                        <div className="phone">phone: 010-7630-2353</div>
                     </div>
-                    <p className='appeal'>끈임없이 노력하며, 발전하는 프론트엔드 개발자가 되겠습니다.</p>
+                    <div className='flex'>
+                        <div className="birth">1999.09.08</div>
+                        <div className="addr">Maesong-myeon, Hwaseong-si </div>
+                    </div>
+                </div>
+                <p className='appeal'>끈임없이 노력하며, 발전하는 프론트엔드 개발자가 되겠습니다.</p>
             </section>
             <section className='right'>
                 <div className="top">

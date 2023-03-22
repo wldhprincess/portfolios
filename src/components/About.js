@@ -10,7 +10,7 @@ const About = () => {
             <main id='main'>
                 <section className='left'>
                     <div>
-                        <img src="./img/main2.jpg" alt="main2" />
+                        <img src={process.env.PUBLIC_URL + '/img/main2.jpg'} />
                         <h2 className='ko'>김지오  |  <span className='eg'>KIMJIOH</span></h2>
                     </div>
                 </section>

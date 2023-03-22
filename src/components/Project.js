@@ -183,7 +183,7 @@ const Project = () => {
                                 <div className="img_box img_box5"></div>
                                 <div className="addr">
                                     <p>cite: </p>
-                                    <blockquote><Link to={"https://kimjioh.github.io/shooting-game/"} target="_blank" title="guess 페이지">https://kimjioh.github.io/shooting-game/</Link ></blockquote>
+                                    <blockquote><Link to={"https://kimjioh.github.io/Doodle-Jump-game/"} target="_blank" title="guess 페이지">https://kimjioh.github.io/Doodle-Jump-game/</Link ></blockquote>
                                 </div>
                             </div>
                         </div>
@@ -220,7 +220,7 @@ const Project = () => {
                                 <div className="img_box img_box6"></div>
                                 <div className="addr">
                                     <p>cite: </p>
-                                    <blockquote><Link to={"https://kimjioh.github.io/shooting-game/"} target="_blank" title="guess 페이지">https://kimjioh.github.io/shooting-game/</Link ></blockquote>
+                                    <blockquote><Link to={"https://kimjioh.github.io/Whack-a-mole_game/"} target="_blank" title="guess 페이지">https://kimjioh.github.io/Whack-a-mole_game/</Link ></blockquote>
                                 </div>
                             </div>
                         </div>
@@ -257,7 +257,7 @@ const Project = () => {
                                 <div className="img_box img_box7"></div>
                                 <div className="addr">
                                     <p>cite: </p>
-                                    <blockquote><Link to={"https://kimjioh.github.io/shooting-game/"} target="_blank" title="guess 페이지">https://kimjioh.github.io/shooting-game/</Link ></blockquote>
+                                    <blockquote><Link to={"https://kimjioh.github.io/Calendar/"} target="_blank" title="guess 페이지">https://kimjioh.github.io/Calendar/</Link ></blockquote>
                                 </div>
                             </div>
                         </div>
@@ -294,7 +294,7 @@ const Project = () => {
                                 <div className="img_box img_box8"></div>
                                 <div className="addr">
                                     <p>cite: </p>
-                                    <blockquote><Link to={"https://kimjioh.github.io/shooting-game/"} target="_blank" title="guess 페이지">https://kimjioh.github.io/shooting-game/</Link ></blockquote>
+                                    <blockquote><Link to={"https://wldhprincess.github.io/movie/"} target="_blank" title="guess 페이지">https://wldhprincess.github.io/movie/</Link ></blockquote>
                                 </div>
                             </div>
                         </div>
@@ -316,6 +316,43 @@ const Project = () => {
                                         <p>movie page 반응형으로 만들기</p>
                                         <p>개인 프로젝트</p>
                                         <p>약 2주 소요</p>
+                                        <p>전 페이지</p>
+                                        <p>pc / 반응형</p>
+                                        <p>React, JavaScript</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </SwiperSlide>
+                    <SwiperSlide>
+                        <div className="left">
+                            <h2 className="project">project9</h2>
+                            <div className="box">
+                                <div className="img_box img_box9"></div>
+                                <div className="addr">
+                                    <p>cite: </p>
+                                    <blockquote><Link to={"http://wldh.dothome.co.kr/kurlyweb1/"} target="_blank" title="guess 페이지">http://wldh.dothome.co.kr/kurlyweb1/</Link ></blockquote>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="right">
+                            <div className="title">
+                                <h3 className='ko'>kurly</h3>
+                            </div>
+                            <div className="content">
+                                <div className="flex">
+                                    <div className="data">
+                                        <p>프로젝트 명:</p>
+                                        <p>역할:</p>
+                                        <p>제작 소요기간:</p>
+                                        <p>제작 페이지:</p>
+                                        <p>홈페이지 유형:</p>
+                                        <p>사용기술:</p>
+                                    </div>
+                                    <div className="data">
+                                        <p>kurly 회원가입 페이지 만들기</p>
+                                        <p>개인 프로젝트</p>
+                                        <p>약 1주 소요</p>
                                         <p>전 페이지</p>
                                         <p>pc / 반응형</p>
                                         <p>React, JavaScript</p>
